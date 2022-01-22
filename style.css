@@ -46,7 +46,8 @@ background-color: #84e1ad;
 font-size: 14pt;
 }
 main{
-    max-width: 1000px;
+    max-width: 900px;
+    min-width: 320px;
     background-color: white;
     width: 65%;
     margin: 0px auto 0px auto;
@@ -125,3 +126,6 @@ ul > li:before {
   abbr{
       cursor: help;
   }
+img{
+    width: 100%;
+}
